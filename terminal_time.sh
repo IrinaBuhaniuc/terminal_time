@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Welcome Irina"
+echo "Welcome `whoami`"
 echo "Terminal time $(date)"
