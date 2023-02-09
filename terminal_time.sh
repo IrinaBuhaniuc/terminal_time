@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Terminal time: `date`"
+
+echo "Welcome `whoami`"
+echo "Terminal time `date`"
